@@ -14,7 +14,7 @@ I write some code sometimes when I am bored.
 ### ProjectOne - Private.
 - Python/Flask/Numpy/Matplotlib/Pandas & React & SQLite.
 - Project for acquiring, managing, analysing and acting on web-based data/streams.
-- Writing to learn web stuff (HTTP,websockets,javascript,APIs,authentication).
+- Writing to learn web stuff (HTTP,websockets,javascript,APIs,authentication) & large data management (databases etc.).
 
 ### Future projects.
 - Some Arduino based physical projects likely to come when I have the resources...
