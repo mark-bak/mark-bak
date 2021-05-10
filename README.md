@@ -12,7 +12,7 @@ I write some code sometimes when I am bored.
 - Wrote this to learn Python/OO languages/how to actually code & manage a decent size project.
 
 ### ProjectOne - Private.
-- Python/Flask/Numpy/Pandas & React & SQLite.
+- Python/~~Flask~~Quart/Numpy/Pandas | React | SQLite.
 - Project for acquiring, managing, analysing and acting on web-based data/streams.
 - Writing to learn web stuff (HTTP,websockets,javascript,APIs,authentication) & large data management (databases etc.).
 
