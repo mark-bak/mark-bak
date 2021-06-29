@@ -11,8 +11,8 @@ I write some code sometimes when I am bored.
 - Future work -> Support for more suspension systems (6-bar family, linear dof ones). Results validation. Braking characteristics (anti-rise), Prettifying and adding icons :).
 - Wrote this to learn Python/OO languages/how to actually code & manage a decent size project.
 
-### BiKinematics - MTB suspension analysis - in browser!!!.
-- React SPA implementation of BiKinematics GUI - aiming for (semi) live updating graphs -> might need to optimise the solver fcns a fair bit :)
+### BiKinematicsJS - MTB suspension analysis - in browser!!!.
+- React SPA implementation of BiKinematics GUI - aiming for (semi) live updating graphs -> might need to optimise solver fcns a fair bit :)
 - Python Flask backend serving the linkage solver fcns
 - Eventually deploy to web at some point when it works reasonably well
 - Hopefully also add some bike database functionality thing
