@@ -12,11 +12,13 @@ I write some code sometimes when I am bored.
 - Wrote this to learn Python/OO languages/how to actually code & manage a decent size project.
 
 ### BiKinematicsJS - MTB suspension analysis - in browser!!!.
-- React SPA implementation of BiKinematics GUI - aiming for (semi) live updating graphs -> might need to optimise solver fcns a fair bit :)
+- React SPA implementation of BiKinematics GUI - aiming for live updating graphs -> might need to optimise solver fcns a fair bit :)
 - Python Flask backend serving the linkage solver fcns
-- Eventually deploy to web at some point when it works reasonably well
+- Massive WIP deployed at http://bikinematics.herokuapp.com/
 - Hopefully also add some bike database functionality thing
 
+### bikinematicssolver
+- pypi pacakge with the solver fcns for above
 
 ### ProjectOne - Private.
 - Python/~~Flask~~Quart/Numpy/Pandas | React | SQLite.
