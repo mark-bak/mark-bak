@@ -9,7 +9,7 @@ I write some code sometimes when I am bored.
 - Easily import images for reference and impose relevant geo.
 - Reasonably nice GUI interface :).
 - Future work -> Support for more suspension systems (6-bar family, linear dof ones). Results validation. Braking characteristics (anti-rise), Prettifying and adding icons :).
-- Wrote this to learn Python/OO languages/how to actually code & manage a decent size project.
+- Wrote this to learn Python/try to actually code & manage a decent size project.
 
 ### BiKinematicsJS - MTB suspension analysis - in browser!!!.
 - React SPA implementation of BiKinematics GUI - aiming for live updating graphs -> might need to optimise solver fcns a fair bit :)
@@ -19,11 +19,6 @@ I write some code sometimes when I am bored.
 
 ### bikinematicssolver
 - pypi pacakge with the solver fcns for above
-
-### ProjectOne - Private.
-- Python/~~Flask~~Quart/Numpy/Pandas | React | SQLite.
-- Project for acquiring, managing, analysing and acting on web-based data/streams.
-- Writing to learn web stuff (HTTP,websockets,javascript,APIs,authentication) & large data management (databases etc.).
 
 ### Future projects.
 - Some Arduino based physical projects likely to come when I have the resources...
