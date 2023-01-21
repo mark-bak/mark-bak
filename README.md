@@ -1,6 +1,3 @@
-# Hello there 
-I write some code sometimes when I am bored.
-
 ## Projects:
 
 ### BiKinematics - MTB suspension analysis.
@@ -22,4 +19,4 @@ I write some code sometimes when I am bored.
 
 ### Future projects.
 - Some Arduino based physical projects likely to come when I have the resources...
-- Maybe some machine learning since everyone and their dog is doing it...
+- Maybe some machine learning since everyone is doing it...
